@@ -4,7 +4,7 @@
 
 ## Hello there, I'm Rishabh Saudagar  - aka [WhiteHorse101] 👋
 
-<img src="971.png" height= 250 wigth = 250 align="right">
+
 
 <h2> I'm a Frontend Developer and Student!!</h2>
 
