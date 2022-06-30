@@ -6,12 +6,12 @@
 
 
 
-<h2> I'm a Frontend Developer and Student!!</h2>
+<h2> I'm a Data Science Enthusiast and Student!!</h2>
 
-- 🔨 I'm Working on Web Devlopment  
-- 👯 I’m looking to collaborate with other content creators and Developers
-- 🎯 2021 Goals: Contribute more to Open Source projects and learn MongoDb
-- ⚡ Trying Hard on Web Development and Android app Development.
+- 🔨 I'm Working on GNN [Graph Neural Networks] 
+- 👯 I’m looking to collaborate with other content Data Science Enthusiast's 
+- 🎯 2022 Goals: Contribute more to Open Source projects
+- ⚡ Trying Hard on Ml
 - 📫 How to reach me: rishabh.saudagar2001@gmail.com
 
 
