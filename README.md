@@ -8,9 +8,9 @@
 
 <h2> I'm a Data Science Enthusiast and Student!!</h2>
 
-- 🔨 I'm Working on GNN [Graph Neural Networks] 
+- 🔨 I'm Working on Data Analysis
 - 👯 I’m looking to collaborate with other content Data Science Enthusiast's 
-- 🎯 2022 Goals: Contribute more to Open Source projects
+- 🎯 2023 Goals: Contribute more to Open Source projects
 - ⚡ Trying Hard on Ml
 - 📫 How to reach me: rishabh.saudagar2001@gmail.com
 
